@@ -1,0 +1,16 @@
+D:\Users\nrama\source\repos\PokerHand\obj\Debug\PokerHand.csproj.AssemblyReference.cache
+D:\Users\nrama\source\repos\PokerHand\obj\Debug\PokerHand.csproj.SuggestedBindingRedirects.cache
+D:\Users\nrama\source\repos\PokerHand\obj\Debug\PokerHand.csproj.CoreCompileInputs.cache
+D:\Users\nrama\source\repos\PokerHand\bin\Debug\PokerHand.exe.config
+D:\Users\nrama\source\repos\PokerHand\bin\Debug\PokerHand.exe
+D:\Users\nrama\source\repos\PokerHand\bin\Debug\PokerHand.pdb
+D:\Users\nrama\source\repos\PokerHand\obj\Debug\PokerHand.exe
+D:\Users\nrama\source\repos\PokerHand\obj\Debug\PokerHand.pdb
+D:\Users\nrama\Desktop\PokerHand\PokerHand\bin\Debug\PokerHand.exe.config
+D:\Users\nrama\Desktop\PokerHand\PokerHand\bin\Debug\PokerHand.exe
+D:\Users\nrama\Desktop\PokerHand\PokerHand\bin\Debug\PokerHand.pdb
+D:\Users\nrama\Desktop\PokerHand\PokerHand\obj\Debug\PokerHand.csproj.AssemblyReference.cache
+D:\Users\nrama\Desktop\PokerHand\PokerHand\obj\Debug\PokerHand.csproj.SuggestedBindingRedirects.cache
+D:\Users\nrama\Desktop\PokerHand\PokerHand\obj\Debug\PokerHand.csproj.CoreCompileInputs.cache
+D:\Users\nrama\Desktop\PokerHand\PokerHand\obj\Debug\PokerHand.exe
+D:\Users\nrama\Desktop\PokerHand\PokerHand\obj\Debug\PokerHand.pdb

@@ -1,0 +1,18 @@
+White wins. - with  high card: Ace
+White wins. - with  one pair: 10
+White wins. - with  two pairs: Jack over 2
+Black wins. - with  three of a kind: 5
+Black wins. - with  straight: Jack
+Black wins. - with  flush: Jack
+Black wins. - with  full house: 10 over 9
+Black wins. - with  four of a kind: 9
+Black wins. - with  straight flush: 7
+Black wins. - with  one pair: Queen
+Black wins. - with  two pairs: 10 over 4
+Black wins. - with  three of a kind: 4
+Black wins. - with  straight: Jack
+Black wins. - with  flush: Jack
+Black wins. - with  full house: 10 over 9
+Black wins. - with  four of a kind: 9
+Black wins. - with  straight flush: 7
+White wins. - with  two pairs: King over Queen
